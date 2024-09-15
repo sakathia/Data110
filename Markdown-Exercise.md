@@ -11,13 +11,13 @@
     
 ## **Lists**: Create both an ordered list (1, 2, 3) and an unordered list (bullet points).
 
-### Ordered List
+### Ice Cream Flavors Ordered List
 1. Strawberry
 2. Vanilla
 3. Chocolate
 
 
-### Unordered List
+### Grocery Items Unordered List
 - Eggs
 - Tomatoes
 - Milk

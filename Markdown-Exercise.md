@@ -65,7 +65,7 @@
 - [x] Dye my hair 
 - [x] Fly to Puerto Rico
 - [ ] Fly to a new state
-- [ ] Try new food from different cultures
+- [x] Try new food from different cultures
 
 ## **Footnotes**: Add a footnote at the end of your document explaining something further.
 [^1]: Montgomery College's Data Science Certificate Program, Montgomery College.
